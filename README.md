@@ -1,6 +1,6 @@
 # UI Kit Library
 
-A reusable component library built with React and Storybook, providing essential UI elements for modern web applications. Each component is designed to be flexible, customizable, and easy to integrate into any project.
+A reusable component library built with React,Typescript and Storybook, providing essential UI elements for modern web applications. Each component is designed to be flexible, customizable, and easy to integrate into any project.
 
 ## Table of Contents
 
