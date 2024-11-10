@@ -44,8 +44,8 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 To install the library and its dependencies, run:
 
 ```bash
-git clone https://github.com/your-username/ui-kit-library.git
-cd ui-kit-library
+git clone https://github.com/Fatumayattani/React_UIkit_Storybook.git
+cd React_UIkit_Storybook
 npm install
 ```
 
